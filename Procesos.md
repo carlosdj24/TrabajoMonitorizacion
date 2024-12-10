@@ -29,7 +29,7 @@ Ajustar los umbrales de alerta en función de los patrones cambiantes de tráfic
 9. Automatización de procesos
 La automatización de tareas repetitivas y la respuesta a incidentes puede mejorar la eficiencia de la monitorización. Por ejemplo, reiniciar automáticamente un servicio que ha fallado, o escalar instancias en la nube en función de la carga.
 
-## Los comandos que podemos utilizar para monitorizar los procesos de nuestro ordenador son:
+## Un comando que podemos utilizar para monitorizar los procesos de nuestro ordenador es:
 
 ### comando PS
 
@@ -46,4 +46,16 @@ ps au
 ps aux
 ```
 ![psa](imagenes/img3.PNG)
- ```bash
+
+## Ademas existen herramientas graficas para la monitorizacion:
+
+### HTOP
+
+![psa](imagenes/img4.PNG)
+
+### ATOP
+
+
+![psa](imagenes/img5.PNG)
+
+
