@@ -47,6 +47,3 @@ ps aux
 ```
 ![psa](img/img3.png)
  ```bash
- ps -C nano
- ```
-![psa](img/img4.png)
