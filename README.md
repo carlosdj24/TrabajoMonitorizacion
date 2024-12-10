@@ -16,4 +16,4 @@ La monitorización es el proceso de supervisar y evaluar el rendimiento, el esta
  [Semantic System](https://www.semantic-systems.com/semantic-noticias/articulos-tecnologicos/en-que-consiste-la-monitorizacion-de-sistemas/)
 
 
-![imagen](imagenes/img16.PNG)
+![imagen](imagenes/img17.PNG)
