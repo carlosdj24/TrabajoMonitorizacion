@@ -19,7 +19,7 @@ Comando `tcpdump -i (tarjeta de red)` :
 
 Comando `tcpdump host (ip)` :
 
-![tcpdump](imagenes/img12.PNG)
+![tcpdump](imagenes/img13.PNG)
 
 Comando `tcpdump -r` para hacerlo en modo lectura
 
