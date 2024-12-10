@@ -23,10 +23,6 @@ Comando `tcpdump host (ip)` :
 
 Comando `tcpdump -r` para hacerlo en modo lectura
 
-## 
-
-
-
 ![tcpdump](imagenes/img14.PNG)
 
 ## NSLOOKUP
@@ -41,7 +37,7 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
  Se puede usar para descubrir dispositivos en la red, realizar escaneos de puertos y detectar servicios en ejecución.
 
 
-![nmap](img/img15.png)
+![nmap](imagenes/img15.PNG)
 
  ## TRACEROUTE
 
@@ -49,4 +45,4 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
   Muestra la secuencia de los routers intermedios por los que pasa el tráfico y el tiempo que tarda en llegar a cada uno.
 
   
-![traceroute(img/img16.png)
+![traceroute(imagenes/img16.PNG)
