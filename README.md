@@ -5,9 +5,9 @@ La monitorización es el proceso de supervisar y evaluar el rendimiento, el esta
 ## ¿ QUE VAMOS A MONITORIZAR ?
 1 [PROCESOS](Procesos.md)
 
-2 [ALMACENAMIENTO](ALMACENAMIENTO.md)
+2 [ALMACENAMIENTO](Almacenamiento.md)
 
-3 [RED](RED.md)
+3 [RED](Red.md)
 
 # REFERENCIAS
 
