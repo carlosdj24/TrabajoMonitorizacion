@@ -41,4 +41,4 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
   Muestra la secuencia de los routers intermedios por los que pasa el tráfico y el tiempo que tarda en llegar a cada uno.
 
   
-![traceroute(imagenes/img16.PNG)
+![traceroute](imagenes/img16.PNG)
