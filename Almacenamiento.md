@@ -3,23 +3,24 @@
 ## COMANDO FREE 
 
 El comando free se utiliza para mostrar información sobre el uso de la memoria en el sistema, incluyendo la memoria RAM y la memoria swap
-![free](imagen/img6.PNG)
+
+![free](imagenes/img6.PNG)
 
 Comando `free -h` :
 
-![free](img/img10.png)
+![free](imagenes/img7.PNG)
 
 Comando `free -s 4` :
 
-![free](img/img11.png)
+![free](imagenes/img8.PNG)
 
 ## COMANDO PARA VER EL ESPACIO 
 
 Comando `df -hT` :
 
-![free](img/img12.png)
+![free](imagenes/img9.PNG)
 
 Comando `sudo du -h --max-depth=1 /home` :
 
-![free](img/img14.png)
+![free](imagenes/img10.PNG)
 
