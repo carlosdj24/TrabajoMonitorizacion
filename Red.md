@@ -7,19 +7,19 @@ Es una de las herramientas más poderosas y ampliamente utilizadas para la monit
 
 Comando `tcpdump` :
 
-![tcpdump](img/img18.png)
+![tcpdump](imagenes/img10.PNG)
 
 ### CON UNA TARJETA DE RED ESPECIFICA 
 
 Comando `tcpdump -i (tarjeta de red)` :
 
-![tcpdump](img/img199.png)
+![tcpdump](img/imagenes11.PNG)
 
 ### A UNA IP ESPECIFICA
 
 Comando `tcpdump host (ip)` :
 
-![tcpdump](img/img200.png)
+![tcpdump](imagenes/img12.PNG)
 
 Comando `tcpdump -r` para hacerlo en modo lectura
 
@@ -27,7 +27,7 @@ Comando `tcpdump -r` para hacerlo en modo lectura
 
 se utiliza para realizar consultas DNS (Domain Name System) y obtener la dirección IP asociada con un nombre de dominio.
 
-![nslookup](img/img200.png)
+![nslookup](imagenes/img13.PNG)
 
 ## NMAP
 
