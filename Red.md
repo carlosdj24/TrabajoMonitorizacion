@@ -21,10 +21,6 @@ Comando `tcpdump host (ip)` :
 
 ![tcpdump](imagenes/img13.PNG)
 
-Comando `tcpdump -r` para hacerlo en modo lectura
-
-![tcpdump](imagenes/img14.PNG)
-
 ## NSLOOKUP
 
 se utiliza para realizar consultas DNS (Domain Name System) y obtener la dirección IP asociada con un nombre de dominio.
