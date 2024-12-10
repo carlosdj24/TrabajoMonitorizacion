@@ -37,13 +37,13 @@ La automatización de tareas repetitivas y la respuesta a incidentes puede mejor
 ```bash	
 ps a
 ```
-![psa](img/img1.PNG)
+![psa](imagenes/img1.PNG)
 ```bash	
 ps au
 ```
-![psa](img/img2.PNG)
+![psa](imagenes/img2.PNG)
 ```bash	
 ps aux
 ```
-![psa](img/img3.PNG)
+![psa](imagenes/img3.PNG)
  ```bash
