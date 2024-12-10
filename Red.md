@@ -13,7 +13,7 @@ Comando `tcpdump` :
 
 Comando `tcpdump -i (tarjeta de red)` :
 
-![tcpdump](img/imagenes12.PNG)
+![tcpdump](imagenes/imagenes12.PNG)
 
 ### A UNA IP ESPECIFICA
 
