@@ -33,7 +33,7 @@ Comando `tcpdump -r` para hacerlo en modo lectura
 
 se utiliza para realizar consultas DNS (Domain Name System) y obtener la dirección IP asociada con un nombre de dominio.
 
-![nslookup](imagenes/img15.PNG)
+![nslookup](imagenes/img14.PNG)
 
 ## NMAP
 
@@ -41,7 +41,7 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
  Se puede usar para descubrir dispositivos en la red, realizar escaneos de puertos y detectar servicios en ejecución.
 
 
-![nmap](img/img16.png)
+![nmap](img/img15.png)
 
  ## TRACEROUTE
 
@@ -49,4 +49,4 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
   Muestra la secuencia de los routers intermedios por los que pasa el tráfico y el tiempo que tarda en llegar a cada uno.
 
   
-![traceroute(img/img17.png)
+![traceroute(img/img16.png)
