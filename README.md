@@ -13,8 +13,5 @@ La monitorización es el proceso de supervisar y evaluar el rendimiento, el esta
 
  [CHATGPT](https://www.chatgpt.com)
  
- [CLASES DE MANOLO](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
+ [Semantic System](https://www.semantic-systems.com/semantic-noticias/articulos-tecnologicos/en-que-consiste-la-monitorizacion-de-sistemas/)
 
- # GRACIAS POR SU TIEMPO! ESPERO QUE HAYA SIDO ÚTIL ;)
-
- ![maz](img/maz.jpg)
