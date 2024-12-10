@@ -7,13 +7,13 @@ Es una de las herramientas más poderosas y ampliamente utilizadas para la monit
 
 Comando `tcpdump` :
 
-![tcpdump](imagenes/img10.PNG)
+![tcpdump](imagenes/img11.PNG)
 
 ### CON UNA TARJETA DE RED ESPECIFICA 
 
 Comando `tcpdump -i (tarjeta de red)` :
 
-![tcpdump](img/imagenes11.PNG)
+![tcpdump](img/imagenes12.PNG)
 
 ### A UNA IP ESPECIFICA
 
@@ -27,13 +27,13 @@ Comando `tcpdump -r` para hacerlo en modo lectura
 
 
 
-![tcpdump](imagenes/img13.PNG)
+![tcpdump](imagenes/img14.PNG)
 
 ## NSLOOKUP
 
 se utiliza para realizar consultas DNS (Domain Name System) y obtener la dirección IP asociada con un nombre de dominio.
 
-![nslookup](imagenes/img14.PNG)
+![nslookup](imagenes/img15.PNG)
 
 ## NMAP
 
@@ -41,7 +41,7 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
  Se puede usar para descubrir dispositivos en la red, realizar escaneos de puertos y detectar servicios en ejecución.
 
 
-![nmap](img/img200.png)
+![nmap](img/img16.png)
 
  ## TRACEROUTE
 
@@ -49,4 +49,4 @@ se utiliza para realizar consultas DNS (Domain Name System) y obtener la direcci
   Muestra la secuencia de los routers intermedios por los que pasa el tráfico y el tiempo que tarda en llegar a cada uno.
 
   
-![traceroute(img/img200.png)
+![traceroute(img/img17.png)
