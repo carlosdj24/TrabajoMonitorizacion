@@ -1,1 +1,2 @@
 
+![imagen](imagenes/grafana.jpg)
