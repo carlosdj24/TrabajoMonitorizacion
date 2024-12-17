@@ -1,2 +1,2 @@
 
-![imagen](imagenes/grafana.jpg)
+![imagen](imagenes/docker-containers.png)
