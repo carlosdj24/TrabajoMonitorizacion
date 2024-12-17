@@ -1,6 +1,6 @@
 # TrabajoMonitorizacion
 
-![imagen](imagenes/grafana.PNG)
+![imagen](imagenes/grafana.jpg)
 
 
 ## ¿QUE ES LA MONITORIZACIÓN?
