@@ -12,6 +12,8 @@ La monitorización es el proceso de supervisar y evaluar el rendimiento, el esta
 
 3 [RED](Red.md)
 
+4 [MAPA CONCEPTUAL]()
+
 # REFERENCIAS
 
  [CHATGPT](https://www.chatgpt.com)
